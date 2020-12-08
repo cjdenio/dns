@@ -1,9 +1,8 @@
 '':
-  type: A
-  value: 185.199.110.153
-'':
-  type: TXT 
-  value: google-site-verification=Gm5adYajywJ6BL0i3RfD8HaqG1JJc3NA6CqG7Y4Y3VY
+  - type: A
+    value: 185.199.110.153
+  - type: TXT 
+    value: google-site-verification=Gm5adYajywJ6BL0i3RfD8HaqG1JJc3NA6CqG7Y4Y3VY
 cms:
   type: CNAME
   value: corrugated-nori-m6dse6rvugq94416vflfkzwj.herokudns.com.
