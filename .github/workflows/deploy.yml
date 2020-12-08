@@ -11,6 +11,6 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
       - run: pip install -r ./requirements.txt
-      - run: octodns-sync --config-file=./config/production.yaml
+      - run: octodns-sync --config-file=./config/production.yaml --doit
         env:
           CLOUDFLARE_TOKEN: ${{ secrets.CLOUDFLARE_TOKEN }}
