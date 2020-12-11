@@ -12,3 +12,6 @@ og:
 v2:
   type: CNAME
   value: cname.vercel-dns.com.
+scrapbook:
+  type: CNAME
+  value: cname.vercel-dns.com.
