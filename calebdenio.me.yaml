@@ -15,3 +15,6 @@ v2:
 scrapbook:
   type: CNAME
   value: cname.vercel-dns.com.
+*.host:
+  type: A
+  value: 165.227.96.87
