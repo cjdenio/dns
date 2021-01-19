@@ -1,0 +1,7 @@
+'':
+  type: CNAME
+  value: cname.vercel-dns.com.
+draw:
+  type: CNAME
+  value: cname.vercel-dns.com.
+

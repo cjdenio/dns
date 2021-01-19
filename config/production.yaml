@@ -17,4 +17,9 @@ zones:
       - config
     targets:
       - cloudflare
+  clb.li.:
+    sources:
+      - config
+    targets:
+      - cloudflare
 
