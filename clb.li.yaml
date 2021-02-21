@@ -1,6 +1,6 @@
 "":
   type: A
-  value: 76.76.21.21
+  value: 165.227.96.87
 draw:
   type: CNAME
   value: cname.vercel-dns.com.
