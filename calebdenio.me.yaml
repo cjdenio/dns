@@ -5,7 +5,7 @@
     value: google-site-verification=Gm5adYajywJ6BL0i3RfD8HaqG1JJc3NA6CqG7Y4Y3VY
 cms:
   type: CNAME
-  value: corrugated-nori-m6dse6rvugq94416vflfkzwj.herokudns.com.
+  value: 165.227.96.87
 og:
   type: CNAME
   value: cname.vercel-dns.com.
