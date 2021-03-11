@@ -22,4 +22,8 @@ zones:
       - config
     targets:
       - cloudflare
-
+  calebden.io.:
+    sources:
+      - config
+    targets:
+      - cloudflare
