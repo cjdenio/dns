@@ -7,3 +7,6 @@ draw:
 dockerenv:
   type: CNAME
   value: cname.vercel-dns.com.
+starship:
+  type: A
+  value: 165.227.96.87
