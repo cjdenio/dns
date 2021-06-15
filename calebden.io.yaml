@@ -13,6 +13,9 @@ trip:
 roadmap.lux:
   - type: A
     value: 165.227.96.87
+dockerenv:
+  - type: A
+    value: 165.227.96.87
 poly:
   - type: CNAME
     value: arcane-swift-61eto6x8tps3osz5ilucefj4.herokudns.com.
