@@ -24,7 +24,7 @@ poly:
     value: arcane-swift-61eto6x8tps3osz5ilucefj4.herokudns.com.
 spotify-widget:
   - type: CNAME
-    value: cname.vercel-dns.com
+    value: cname.vercel-dns.com.
 "*":
   - type: A
     value: 165.227.96.87
