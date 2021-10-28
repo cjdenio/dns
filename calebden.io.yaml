@@ -10,6 +10,9 @@ analytics:
 trip:
   - type: A
     value: 165.227.96.87
+temp-email-test:
+  - type: A
+    value: 34.138.52.92
 roadmap.lux:
   - type: A
     value: 165.227.96.87
