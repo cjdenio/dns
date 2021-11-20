@@ -1,33 +1,39 @@
 "":
   - type: A
     value: 76.76.21.21
-chat:
+"*":
   - type: A
     value: 165.227.96.87
 analytics:
   - type: A
     value: 165.227.96.87
-trip:
-  - type: A
-    value: 165.227.96.87
-temp-email-test:
-  - type: A
-    value: 34.138.52.92
-roadmap.lux:
+chat:
   - type: A
     value: 165.227.96.87
 dockerenv:
   - type: A
     value: 165.227.96.87
+em6253.taskalla:
+  - type: CNAME
+    value: u17325777.wl028.sendgrid.net.
 replier:
   - type: A
     value: 165.227.96.87
-poly:
+roadmap.lux:
+  - type: A
+    value: 165.227.96.87
+s1._domainkey.taskalla:
   - type: CNAME
-    value: arcane-swift-61eto6x8tps3osz5ilucefj4.herokudns.com.
+    value: s1.domainkey.u17325777.wl028.sendgrid.net.
+s2._domainkey.taskalla:
+  - type: CNAME
+    value: s2.domainkey.u17325777.wl028.sendgrid.net.
 spotify-widget:
   - type: CNAME
     value: cname.vercel-dns.com.
-"*":
+temp-email-test:
+  - type: A
+    value: 34.138.52.92
+trip:
   - type: A
     value: 165.227.96.87
