@@ -1,0 +1,12 @@
+"":
+  - type: A
+    value: 165.227.96.87
+em2174:
+  type: CNAME
+  value: u17325777.wl028.sendgrid.net.
+s1._domainkey:
+  type: CNAME
+  value: s1.domainkey.u17325777.wl028.sendgrid.net.
+s2._domainkey:
+  type: CNAME
+  value: s2.domainkey.u17325777.wl028.sendgrid.net.
