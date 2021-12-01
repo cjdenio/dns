@@ -4,9 +4,9 @@
 draw:
   type: CNAME
   value: cname.vercel-dns.com.
-starship:
-  type: A
-  value: 165.227.96.87
 haas-test:
   type: CNAME
   value: hackclub.app.
+starship:
+  type: A
+  value: 165.227.96.87

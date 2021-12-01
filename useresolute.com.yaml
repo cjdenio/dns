@@ -4,6 +4,9 @@
       proxied: true
   type: A
   value: 165.227.96.87
+api:
+  type: CNAME
+  value: cname.vercel-dns.com.
 docs:
   type: CNAME
   value: cname.vercel-dns.com.
