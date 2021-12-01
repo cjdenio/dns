@@ -1,6 +1,9 @@
 "":
-  - type: A
-    value: 165.227.96.87
+  type: A
+  value: 165.227.96.87
+docs:
+  type: CNAME
+  value: cname.vercel-dns.com.
 em2174:
   type: CNAME
   value: u17325777.wl028.sendgrid.net.
