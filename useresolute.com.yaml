@@ -1,9 +1,9 @@
 "":
-  octodns:
-    cloudflare:
-      proxied: true
+  # octodns:
+  #   cloudflare:
+  #     proxied: true
   type: A
-  value: 165.227.96.87
+  value: 159.223.133.179
 api:
   type: CNAME
   value: cname.vercel-dns.com.
