@@ -22,3 +22,6 @@ s1._domainkey:
 s2._domainkey:
   type: CNAME
   value: s2.domainkey.u17325777.wl028.sendgrid.net.
+slack:
+  type: A
+  value: 159.223.133.179
