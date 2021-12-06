@@ -4,6 +4,9 @@
       proxied: true
   type: A
   value: 159.223.133.179
+_github-challenge-resoluteapp:
+  type: TXT
+  value: 95d1c372f3
 api:
   type: CNAME
   value: cname.vercel-dns.com.
