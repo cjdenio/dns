@@ -9,7 +9,7 @@ _github-challenge-resoluteapp:
   value: 95d1c372f3
 api:
   type: CNAME
-  value: cname.vercel-dns.com.
+  value: resolute-docs.netlify.app.
 docs:
   type: CNAME
   value: cname.vercel-dns.com.
