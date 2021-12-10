@@ -27,8 +27,3 @@ zones:
       - config
     targets:
       - cloudflare
-  useresolute.com.:
-    sources:
-      - config
-    targets:
-      - cloudflare
