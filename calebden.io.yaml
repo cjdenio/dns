@@ -7,6 +7,9 @@
 analytics:
   - type: A
     value: 165.227.96.87
+bio-project:
+  type: CNAME
+  value: github.io.
 chat:
   - type: A
     value: 165.227.96.87
