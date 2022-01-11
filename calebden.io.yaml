@@ -9,7 +9,7 @@ analytics:
     value: 165.227.96.87
 bio-project:
   type: CNAME
-  value: github.io.
+  value: cjdenio.github.io.
 chat:
   - type: A
     value: 165.227.96.87
