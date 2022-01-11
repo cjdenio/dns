@@ -8,8 +8,8 @@ analytics:
   - type: A
     value: 165.227.96.87
 bio-project:
-  type: CNAME
-  value: cjdenio.github.io.
+  type: A
+  value: 159.223.133.179
 chat:
   - type: A
     value: 165.227.96.87
