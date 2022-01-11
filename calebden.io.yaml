@@ -16,21 +16,9 @@ chat:
 dockerenv:
   - type: A
     value: 165.227.96.87
-em6253.taskalla:
-  - type: CNAME
-    value: u17325777.wl028.sendgrid.net.
 replier:
   - type: A
     value: 165.227.96.87
-roadmap.lux:
-  - type: A
-    value: 165.227.96.87
-s1._domainkey.taskalla:
-  - type: CNAME
-    value: s1.domainkey.u17325777.wl028.sendgrid.net.
-s2._domainkey.taskalla:
-  - type: CNAME
-    value: s2.domainkey.u17325777.wl028.sendgrid.net.
 spotify-widget:
   - type: CNAME
     value: cname.vercel-dns.com.
