@@ -1,6 +1,9 @@
 "":
   type: A
   value: 165.227.96.87
+"*.hpass":
+  type: A
+  value: 34.138.52.92
 c:
   type: CNAME
   value: b616c4f2-bfad-4b67-9c6d-ee6afc35cc0b.id.repl.co.
@@ -10,6 +13,9 @@ draw:
 haas-test:
   type: CNAME
   value: hackclub.app.
+hpass:
+  type: A
+  value: 34.138.52.92
 starship:
   type: A
   value: 165.227.96.87
