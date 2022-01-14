@@ -4,6 +4,9 @@
 "*":
   - type: A
     value: 165.227.96.87
+"*.tunnel":
+  type: A
+  value: 34.138.52.92
 analytics:
   - type: A
     value: 165.227.96.87
