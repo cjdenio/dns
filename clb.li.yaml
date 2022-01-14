@@ -1,7 +1,7 @@
 "":
   type: A
   value: 165.227.96.87
-"*.hpass":
+"*.upass":
   type: A
   value: 34.138.52.92
 c:
@@ -13,7 +13,7 @@ draw:
 haas-test:
   type: CNAME
   value: hackclub.app.
-hpass:
+upass:
   type: A
   value: 34.138.52.92
 starship:
