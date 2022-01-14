@@ -28,9 +28,9 @@ spotify-widget:
 temp-email-test:
   - type: A
     value: 34.138.52.92
-tunnel:
-  type: A
-  value: 34.138.52.92
 trip:
   - type: A
     value: 165.227.96.87
+tunnel:
+  type: A
+  value: 34.138.52.92
