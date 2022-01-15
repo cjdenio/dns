@@ -1,6 +1,9 @@
 "":
   type: A
   value: 165.227.96.87
+"*.underpass":
+  type: A
+  value: 34.138.52.92
 "*.upass":
   type: A
   value: 34.138.52.92
@@ -16,6 +19,9 @@ haas-test:
 starship:
   type: A
   value: 165.227.96.87
+underpass:
+  type: A
+  value: 34.138.52.92
 upass:
   type: A
   value: 34.138.52.92
