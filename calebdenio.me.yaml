@@ -3,18 +3,12 @@
     value: 165.227.96.87
   - type: TXT
     value: google-site-verification=Gm5adYajywJ6BL0i3RfD8HaqG1JJc3NA6CqG7Y4Y3VY
-"*.dokku":
-  type: A
-  value: 34.75.6.116
 "*.host":
   type: A
   value: 165.227.96.87
 cms:
   type: A
   value: 165.227.96.87
-dokku:
-  type: A
-  value: 34.75.6.116
 og:
   type: CNAME
   value: cname.vercel-dns.com.
