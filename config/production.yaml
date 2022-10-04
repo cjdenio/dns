@@ -17,11 +17,11 @@ zones:
       - config
     targets:
       - cloudflare
-  clb.li.:
-    sources:
-      - config
-    targets:
-      - cloudflare
+  # clb.li.:
+  #   sources:
+  #     - config
+  #   targets:
+  #     - cloudflare
   calebden.io.:
     sources:
       - config
