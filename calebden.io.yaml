@@ -16,6 +16,9 @@ chat:
 dockerenv:
   - type: A
     value: 165.227.96.87
+draw:
+  type: CNAME
+  value: cname.vercel-dns.com.
 replier:
   - type: A
     value: 165.227.96.87
