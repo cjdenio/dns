@@ -19,9 +19,9 @@ conf:
       exchange: ASPMX.L.GOOGLE.COM.
       preference: 1
   - type: TXT
-    value: v=spf1 include:_spf.google.com ~all
-  - type: TXT
-    value: google-site-verification=m6Jt1Zp_FjUqk38wpMBOg8nEi1iqORli-UIPQt6p1BA
+    values: 
+      - v=spf1 include:_spf.google.com ~all
+      - google-site-verification=m6Jt1Zp_FjUqk38wpMBOg8nEi1iqORli-UIPQt6p1BA
 dockerenv:
   - type: A
     value: 165.227.96.87
