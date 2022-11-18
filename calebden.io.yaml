@@ -1,18 +1,18 @@
 "":
-  - type: A
-    value: 76.76.21.21
+  type: A
+  value: 76.76.21.21
 "*":
-  - type: A
-    value: 165.227.96.87
+  type: A
+  value: 165.227.96.87
 "*.tunnel":
   type: A
   value: 34.138.52.92
 analytics:
-  - type: A
-    value: 165.227.96.87
+  type: A
+  value: 165.227.96.87
 chat:
-  - type: A
-    value: 165.227.96.87
+  type: A
+  value: 165.227.96.87
 conf:
   - type: MX
     value:
@@ -23,23 +23,23 @@ conf:
       - v=spf1 include:_spf.google.com ~all
       - google-site-verification=m6Jt1Zp_FjUqk38wpMBOg8nEi1iqORli-UIPQt6p1BA
 dockerenv:
-  - type: A
-    value: 165.227.96.87
+  type: A
+  value: 165.227.96.87
 draw:
   type: CNAME
   value: cname.vercel-dns.com.
 replier:
-  - type: A
-    value: 165.227.96.87
+  type: A
+  value: 165.227.96.87
 spotify-widget:
-  - type: CNAME
-    value: cname.vercel-dns.com.
+  type: CNAME
+  value: cname.vercel-dns.com.
 temp-email-test:
-  - type: A
-    value: 34.138.52.92
+  type: A
+  value: 34.138.52.92
 trip:
-  - type: A
-    value: 165.227.96.87
+  type: A
+  value: 165.227.96.87
 tunnel:
   type: A
   value: 34.138.52.92
