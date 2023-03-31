@@ -9,7 +9,7 @@
   value: 34.138.52.92
 _acme-challenge.auth:
   type: TXT
-  value: fLbeVUNkPxKyX6E8tL2OZEaM9mYugtVMPgigcL3Ol94
+  value: N_8YtnGAM2wmjexdL7uxEKhx1AbjXgiKYdOpZbBNY0c
 auth:
   type: A
   value: 10.101.221.201
