@@ -7,7 +7,7 @@
 "*.upass":
   type: A
   value: 34.138.52.92
-_acme_challenge.auth:
+_acme-challenge.auth:
   type: TXT
   value: us5FVbQlNd2d8W-PJ2VEVS6LOrGuEqm7bzd3o66Kdlo
 auth:
