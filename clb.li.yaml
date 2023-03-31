@@ -25,6 +25,9 @@ draw:
 haas-test:
   type: CNAME
   value: hackclub.app.
+points:
+  type: A
+  value: 165.227.96.87
 starship:
   type: A
   value: 165.227.96.87
