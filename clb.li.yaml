@@ -7,6 +7,9 @@
 "*.upass":
   type: A
   value: 34.138.52.92
+auth:
+  type: A
+  value: 10.101.221.201
 b:
   type: A
   value: 165.227.96.87
