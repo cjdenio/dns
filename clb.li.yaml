@@ -34,6 +34,9 @@ racooni-map:
 starship:
   type: A
   value: 165.227.96.87
+trains:
+  type: CNAME
+  value: cname.vercel-dns.com.
 underpass:
   type: A
   value: 34.138.52.92
