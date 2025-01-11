@@ -25,6 +25,9 @@ draw:
 haas-test:
   type: CNAME
   value: hackclub.app.
+is-there-an-event-at-the-snhu-arena:
+  type: CNAME
+  value: cname.vercel-dns.com.
 points:
   type: A
   value: 165.227.96.87
