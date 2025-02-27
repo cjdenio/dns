@@ -22,6 +22,9 @@ c:
 draw:
   type: CNAME
   value: cname.vercel-dns.com.
+fare-art:
+  type: CNAME
+  value: cjdenio.github.io.
 haas-test:
   type: CNAME
   value: hackclub.app.
