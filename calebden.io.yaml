@@ -45,6 +45,9 @@ spotify-widget:
 temp-email-test:
   type: A
   value: 34.138.52.92
+test:
+  type: A
+  value: 165.227.96.87
 trip:
   type: A
   value: 165.227.96.87
